@@ -1,0 +1,29 @@
+﻿/* HomeDesign.css - for index */
+/* Set the background color and text color */
+body {
+    background-color: #0d1321;
+    color: #79c7c5;
+}
+.title{
+    text-align: center;
+}
+
+ /*/Header styles /*/
+header {
+    background-color: #0d1321;
+    color: #79c7c5;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#subHeading{
+    text-align: center;
+}
+
+ Container styles 
+.container {
+     
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}

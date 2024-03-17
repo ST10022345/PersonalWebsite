@@ -1,0 +1,29 @@
+/* Navbar styles */
+.navbar {
+    background-color: #0d1321 !important;
+    font-size: 24px
+    /* Set navbar background color */
+}
+
+.navbar-brand {
+    color: #79c7c5 !important;
+    font-size: 24px /* Set brand text color */
+}
+
+
+
+
+.navbar-nav .nav-item {
+    margin-right: 20px;
+    /* Add some space between items */
+}
+
+.navbar-nav .nav-link {
+    color: #79c7c5 !important; /* Set nav link text color */
+    transition: color 0.01s; /* Add transition effect for color change */
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #007bff !important; /* Change text color on hover */
+        text-decoration: underline !important;
+    }
